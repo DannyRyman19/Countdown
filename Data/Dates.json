@@ -1,0 +1,202 @@
+[
+  {
+    "Date": "2021-03-08T00:00:00.0000000Z",
+    "Description": "Step 1 - Education Reopening",
+    "ShortDescription": "Schools Reopen & 2 People Can Socialise",
+    "RestrictionImage": "🧑‍🏫📚",
+    "RestrictionsLifted": [
+      {
+        "RestrictionDescription": "All schools open, with outdoor after-school sports and activities allowed.",
+        "RestrictionImage": "🧑‍🏫",
+        "BackgroundColor": "#d5a930"
+      },
+      {
+        "RestrictionDescription": "Two people can meet outdoors to socialise (Go for a coffee or picnic etc.).",
+        "RestrictionImage": "☕",
+        "BackgroundColor": "#ffdb7a"
+      },
+      {
+        "RestrictionDescription": "Care home residents allowed one regular visitor, with whom they can hold hands.",
+        "RestrictionImage": "🧑‍🤝‍🧑",
+        "BackgroundColor": "#d5a930"
+      }
+    ]
+  },
+  {
+    "Date": "2021-03-29T00:00:00.0000000Z",
+    "Description": "Step 1 - Rule of 6 & Outdoor sport",
+    "RestrictionImage": "6️⃣🎾",
+    "ShortDescription": "Rule of 6 & Outdoor Sports Allowed",
+    "RestrictionsLifted": [
+      {
+        "RestrictionDescription": "Rule of 6 or two households outdoors, including private gardens. No household mixing indoors.",
+        "RestrictionImage": "🏡",
+        "BackgroundColor": "#d5a930"
+      },
+      {
+        "RestrictionDescription": "Outdoor sport and leisure facilities open (tennis & basketball courts and golf courses).",
+        "RestrictionImage": "🎾",
+        "BackgroundColor": "#ffdb7a"
+      },
+      {
+        "RestrictionDescription": "Organised outdoor sport allowed (children and adults).",
+        "RestrictionImage": "⚽",
+        "BackgroundColor": "#d5a930"
+      },
+      {
+        "RestrictionDescription": "Stay at home rule scrapped, but stay local.",
+        "RestrictionImage": "🏠",
+        "BackgroundColor": "#ffdb7a"
+      },
+      {
+        "RestrictionDescription": "Outdoor parent & child groups (up to 15 parents).",
+        "RestrictionImage": "👨‍👩‍👦‍👦",
+        "BackgroundColor": "#d5a930"
+      },
+      {
+        "RestrictionDescription": "Weddings of up to 6 people.",
+        "RestrictionImage": "👰",
+        "BackgroundColor": "#ffdb7a"
+      }
+    ]
+  },
+  {
+    "Date": "2021-04-12T00:00:00.0000000Z",
+    "Description": "Gyms, Hairdressers & Retail.",
+    "RestrictionImage": "🏋️🛍️",
+    "ShortDescription": "Gyms, Hairdressers, Retail & Pub Gardens Reopen",
+    "RestrictionsLifted": [
+      {
+        "RestrictionDescription": "All shops reopen.",
+        "RestrictionImage": "🛍️",
+        "BackgroundColor": "#d5a930"
+      },
+      {
+        "RestrictionDescription": "Restaurants and pub gardens open for outdoor use (including alcohol).",
+        "RestrictionImage": "🍺",
+        "BackgroundColor": "#ffdb7a"
+      },
+      {
+        "RestrictionDescription": "Gyms & spas can reopen for individuals and households.",
+        "RestrictionImage": "🏋️",
+        "BackgroundColor": "#d5a930"
+      },
+      {
+        "RestrictionDescription": "Hairdressers, beauty salons and other 'close contact services' reopen.",
+        "RestrictionImage": "💇",
+        "BackgroundColor": "#ffdb7a"
+      },
+      {
+        "RestrictionDescription": "UK domestic holidays away from home permitted, with self-contained accommodation able to reopen for use by members of the same household.",
+        "RestrictionImage": "🏖️",
+        "BackgroundColor": "#d5a930"
+      },
+      {
+        "RestrictionDescription": "Children allowed to attend indoor play activities, with up to 15 parents or guardians allowed to join them.",
+        "RestrictionImage": "👨‍👩‍👦‍👦",
+        "BackgroundColor": "#ffdb7a"
+      },
+      {
+        "RestrictionDescription": "Zoos, theme parks and drive-in cinemas can reopen.",
+        "RestrictionImage": "🎢",
+        "BackgroundColor": "#d5a930"
+      },
+      {
+        "RestrictionDescription": "Libraries and community centres can reopen.",
+        "RestrictionImage": "📚",
+        "BackgroundColor": "#ffdb7a"
+      },
+      {
+        "RestrictionDescription": "Weddings attended by up to 15 people can take place.",
+        "RestrictionImage": "💍",
+        "BackgroundColor": "#d5a930"
+      }
+    ]
+  },
+  {
+    "Date": "2021-05-17T00:00:00.0000000Z",
+    "Description": "International Travel (Subject to review), indoor entertainment & 30 person outdoor limit.",
+    "RestrictionImage": "✈️🎬",
+    "ShortDescription": "International Travel, Cinemas & Indoor Hospitality Reopen",
+    "RestrictionsLifted": [
+      {
+        "RestrictionDescription": "People can meet in groups of up to 30 outdoors.",
+        "RestrictionImage": "🍾",
+        "BackgroundColor": "#d5a930"
+      },
+      {
+        "RestrictionDescription": "Six people or two households can meet indoors.",
+        "RestrictionImage": "🏘️",
+        "BackgroundColor": "#ffdb7a"
+      },
+      {
+        "RestrictionDescription": "Pubs, restaurants and other hospitality venues can seat customers indoors.",
+        "RestrictionImage": "🍕",
+        "BackgroundColor": "#d5a930"
+      },
+      {
+        "RestrictionDescription": "Up to 30 people can meet to celebrate weddings or other life events, like christenings.",
+        "RestrictionImage": "💍",
+        "BackgroundColor": "#ffdb7a"
+      },
+      {
+        "RestrictionDescription": "Remaining outdoor entertainment, such as outdoor theatres and cinemas can open.",
+        "RestrictionImage": "📽️",
+        "BackgroundColor": "#d5a930"
+      },
+      {
+        "RestrictionDescription": "Indoor entertainment such as museums, theatres, cinemas and children's play areas can open.",
+        "RestrictionImage": "🍿",
+        "BackgroundColor": "#ffdb7a"
+      },
+      {
+        "RestrictionDescription": "Remaining accommodation.",
+        "RestrictionImage": "🛏️",
+        "BackgroundColor": "#d5a930"
+      },
+      {
+        "RestrictionDescription": "Some large events (except for pilots) capacity limits apply.\nIndoor events : 1,000 or half capacity.\nOutdoor other events 4,000 or half capacity.\nOutdoor seated events: 10,000 or quarter capacity.",
+        "RestrictionImage": "🏟️",
+        "BackgroundColor": "#ffdb7a"
+      },
+      {
+        "RestrictionDescription": "Hotels, hostels and B&Bs can reopen.",
+        "RestrictionImage": "🏨",
+        "BackgroundColor": "#d5a930"
+      },
+      {
+        "RestrictionDescription": "International leisure travel will resume no earlier than 17 May.",
+        "RestrictionImage": "🛫",
+        "BackgroundColor": "#ffdb7a"
+      },
+      {
+        "RestrictionDescription": "Adult indoor group sports and exercise classes can start up again.",
+        "RestrictionImage": "😅",
+        "BackgroundColor": "#d5a930"
+      }
+    ]
+  },
+  {
+    "Date": "2021-06-21T00:00:00.0000000Z",
+    "Description": "Nightclubs, larger events & no legal limit on social contact.",
+    "RestrictionImage": "🍸💃",
+    "ShortDescription": "Nightclubs Open & No Limit On Social Contact",
+    "RestrictionsLifted": [
+      {
+        "RestrictionDescription": "All legal limits on social contact will be removed",
+        "RestrictionImage": "👮",
+        "BackgroundColor": "#d5a930"
+      },
+      {
+        "RestrictionDescription": "No legal limits on the number of people who can attend weddings, funerals and other life events.",
+        "RestrictionImage": "⚰️",
+        "BackgroundColor": "#ffdb7a"
+      },
+      {
+        "RestrictionDescription": "Nightclubs will be allowed to reopen.",
+        "RestrictionImage": "🍸",
+        "BackgroundColor": "#d5a930"
+      }
+    ]
+  }
+]
